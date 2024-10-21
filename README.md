@@ -1,2 +1,2 @@
 # EDAT_ListaLigada
-## Repositorio inicial de simplemente ligadas 
+## Repositorio inicial de listas simplemente ligadas 
